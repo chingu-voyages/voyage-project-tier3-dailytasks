@@ -85,7 +85,7 @@ implement to enhance this app, if time permits.
 #### Functionality
 
 - Initial Checklist Generation:
-    - [ ] Utilize the provided JSON data to generate the initial matrix that lists categories and tasks on the left side and days of the month along the top (triggered by user).
+    - [ ] You may use the provided JSON data for your initial database load and initial testing.
     - [ ] Display checkboxes at the intersections of categories/tasks and days.
     - [ ] Generate the matrix only for the current month.
     - [ ] Determine the current month dynamically based on the system's date.
