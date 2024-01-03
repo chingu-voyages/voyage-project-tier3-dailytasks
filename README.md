@@ -129,6 +129,7 @@ implement to enhance this app, if time permits.
 
 ### Extras (Not Required)
 
+- [ ] Add a filter to allow the user to list tasks scheduled for a particular day or week. Alternatively, allow the filter to scroll and/or highlight tasks that match the filter criteria
 - [ ] Implement mechanisms (such as WebSocket connections or server polling) to provide real-time updates for task changes made by different users.
 - [ ] Incorporate logging mechanisms to track modifications, additions, or deletions of task data for auditing and accountability purposes.
 - [ ] Provide visual cues such as color changes or labels to indicate completed tasks for improved user experience.
