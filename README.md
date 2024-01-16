@@ -32,7 +32,7 @@ This project is designed to be worked on by a team rather than an individual
 Chingu. This means you and your team will need to thoroughly read and
 understand the requirements and specifications below, **_and_** define and
 manage your project following the _Agile Methodology_ defined in the
-[Voyage Handbook](https://github.com/chingu-voyages/voyage-project-tier3-dailytasks.git).
+[Voyage Handbook](https://github.com/chingu-voyages/Handbook/blob/main/docs/guides/voyage/voyage.md).
 
 As you create this project make sure it meets all of the requirements, but once
 it reaches MVP, start implementing the optional features or get creative and
